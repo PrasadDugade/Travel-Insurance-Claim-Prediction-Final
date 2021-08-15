@@ -1,2 +1,3 @@
 # Travel-Insurance-Claim-Prediction-Final
 Wrongly denying a genuine claim could lead to lawsuits against the company and approving the wrong claim would lead to a loss. Automatically predicting the claims could lead to a lot of benefits and solve some other supplementary problems too.
+Building an ML model to predict whether the customer will apply for the claim or not 1000s of claims spread across different products are received weekly thereby increasing manual effort and time Automatically predicting the claims could lead less effort, time and operational costs Whenever a claim is registered and if accepted it is a cost to the company
